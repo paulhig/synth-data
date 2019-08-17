@@ -1,2 +1,2 @@
 # synth-data
-Collected code for NUIG masters 
+Collected code and data for NUIG masters 
